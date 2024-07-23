@@ -1,0 +1,33 @@
+#homepage{
+    text-align: center;
+    background-color:aqua;
+    padding: 50px;
+
+}
+
+#text{
+    text-decoration: none;
+    color:blue;
+    font-size: xx-large;
+    margin-right: 90%;
+    
+    
+}
+
+input{
+
+    height: 40px;
+    width: 135px;
+    
+}
+button{
+background-color: aqua;
+color: blue;
+border-radius: 50px;
+height: 40px;
+width: 135px;
+margin-top: 5%;
+border: none;
+
+
+}
